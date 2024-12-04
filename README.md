@@ -10,10 +10,10 @@ I'm Dave and I make things from software.
 
 ### Some toys
 
-* [Relationship Window](https://davorg.dev/relwindow) - how far ahead should you plan dates?
+* [Relationship Window](https://davorg.dev/rel-window) - how far ahead should you plan dates?
 * [Mirror Years](https://davorg.dev/mirroryear) - get some perspective on history
 * [January Tracker](https://davorg.dev/january) - for Dry January and other similar endeavours
-* [Royal relations](https://davorg.dev/royal_rels) - how closely are our monarchs related?
+* [Royal relations](https://rels.lineofsuccession.co.uk/) - how closely are our monarchs related?
 
 ### Some things
 
