@@ -10,6 +10,7 @@ I'm Dave and I make things from software.
 
 ### Some toys
 
+* [Pantone Colour of the Year](https://davorg.dev/pantone)
 * [Relationship Window](https://davorg.dev/rel-window) - how far ahead should you plan dates?
 * [Mirror Years](https://davorg.dev/mirroryear) - get some perspective on history
 * [January Tracker](https://davorg.dev/january) - for Dry January and other similar endeavours
