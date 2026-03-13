@@ -17,6 +17,11 @@ I'm Dave and I make things from software.
 * [January Tracker](https://davorg.dev/january) - for Dry January and other similar endeavours
 * [Royal relations](https://rels.lineofsuccession.co.uk/) - how closely are our monarchs related?
 
+### Some useful utilities
+
+* [gitme](https://davorg.dev/gitme/) - Quickly jump to any of your Git repositories by name or remote URL
+* [perl5lib_auto.sh](https://davorg.dev/perl5lib_auto/) - A Bash script that automatically sets the PERL5LIB environment variable when you cd into a directory containing a Perl project
+
 ### Some things
 
 * [All my links](https://links.davecross.co.uk/)
