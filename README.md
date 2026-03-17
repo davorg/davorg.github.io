@@ -5,7 +5,7 @@ I'm Dave and I make things from software.
 ### GitHub Actions Essentials
 
 <img src="https://actions.davecross.co.uk/img/book-cover-sm.png"
-     alt="GitHub Actions Essentials" style="width:50%; height:auto;">
+     alt="GitHub Actions Essentials" width="50%">
 
 ![GitHub Actions Essentials](https://actions.davecross.co.uk/img/book-cover-sm.png "GitHub Actions Essentials")
 
