@@ -11,11 +11,15 @@ I'm Dave and I make things from software.
 
 ### Some toys
 
-* [MyDomains](https://davorg.dev/mydomains) - keep track of your domains
-* [Pantone Colour of the Year](https://davorg.dev/pantone)
-* [Relationship Window](https://davorg.dev/rel-window) - how far ahead should you plan dates?
-* [Mirror Years](https://davorg.dev/mirroryear) - get some perspective on history
-* [January Tracker](https://davorg.dev/january) - for Dry January and other similar endeavours
+* [Article reader](https://davorg.dev/reader)
+* [LastLive](https://davorg.dev/last-live/) - how many of your most-played artists have you seen live?
+* [DomainName](https://davorg.dev/domainname/) - generate random, vaguely-English words for domains
+* [MyDomains](https://davorg.dev/mydomains/) - keep track of your domains
+* [Pantone Colour of the Year](https://davorg.dev/pantone/)
+* [Space](https://davorg.dev/space/) - which direction are you moving through space?
+* [Relationship Window](https://davorg.dev/rel-window/) - how far ahead should you plan dates?
+* [Mirror Years](https://davorg.dev/mirroryear/) - get some perspective on history
+* [January Tracker](https://davorg.dev/january/) - for Dry January and other similar endeavours
 * [Royal relations](https://rels.lineofsuccession.co.uk/) - how closely are our monarchs related?
 
 ### Some useful utilities
